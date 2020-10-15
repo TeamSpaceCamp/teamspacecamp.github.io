@@ -1,4 +1,4 @@
-name: "Giphy"
+name: "Giphy TEST"
 
 on: 
   issue_comment:
